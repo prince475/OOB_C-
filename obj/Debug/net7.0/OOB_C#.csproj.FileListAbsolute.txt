@@ -1,0 +1,15 @@
+/home/prince/Development/CsharpProjects/OOB_C#/bin/Debug/net7.0/OOB_C#
+/home/prince/Development/CsharpProjects/OOB_C#/bin/Debug/net7.0/OOB_C#.deps.json
+/home/prince/Development/CsharpProjects/OOB_C#/bin/Debug/net7.0/OOB_C#.runtimeconfig.json
+/home/prince/Development/CsharpProjects/OOB_C#/bin/Debug/net7.0/OOB_C#.dll
+/home/prince/Development/CsharpProjects/OOB_C#/bin/Debug/net7.0/OOB_C#.pdb
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/OOB_C#.csproj.AssemblyReference.cache
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/OOB_C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/OOB_C#.AssemblyInfoInputs.cache
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/OOB_C#.AssemblyInfo.cs
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/OOB_C#.csproj.CoreCompileInputs.cache
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/OOB_C#.dll
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/refint/OOB_C#.dll
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/OOB_C#.pdb
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/OOB_C#.genruntimeconfig.cache
+/home/prince/Development/CsharpProjects/OOB_C#/obj/Debug/net7.0/ref/OOB_C#.dll
